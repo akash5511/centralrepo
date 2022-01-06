@@ -1,2 +1,0 @@
-# centralrepo
-central repository

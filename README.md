@@ -1,3 +1,0 @@
-# centralrepo
-central repository
-pulling..................
